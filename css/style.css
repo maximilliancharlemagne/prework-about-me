@@ -28,7 +28,7 @@ body {
     font-weight: bold;
     font-size: 8em;
     letter-spacing: -0.02em;
-    text-transform: uppercase;
+    text-transform: capitalize;
     color: #3bbbe2;
 }
 
